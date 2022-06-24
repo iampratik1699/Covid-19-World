@@ -1,0 +1,51 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "atapas",
+      "name": "Tapas Adhikary",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3633137?v=4",
+      "profile": "https://tapasadhikary.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "nirmalkc",
+      "name": "Nirmal Kumar",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6359059?v=4",
+      "profile": "https://github.com/nirmalkc",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "SauravKanchan",
+      "name": "Saurav  Kanchan",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/21256638?v=4",
+      "profile": "https://saurav.tech/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "NagarjunShroff",
+      "name": "NagarjunShroff",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/37444771?v=4",
+      "profile": "https://github.com/NagarjunShroff",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "covid-19",
+  "projectOwner": "atapas",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
